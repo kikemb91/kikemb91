@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kikemb91, Enrique Montero Bulacio.
-- 👀 I’m agronomist engineer. I work at cifasis-conicet and FCA-UNR.
+- 👀 I’m agronomist engineer. I work at CIFASIS-CONICET and FCA-UNR.
 - 🌱 I’m currently learning about programming.
 
 
